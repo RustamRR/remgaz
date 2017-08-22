@@ -1,0 +1,80 @@
+/* Pragmatica Black Oblique */
+@font-face {
+  font-family: 'Pragmatica Black Oblique';
+  src: local('Pragmatica Black Oblique'), local('Pragmatica Black Oblique'), url('../fonts/Pragmatica Black Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Black';
+  src: local('Pragmatica Black'), local('Pragmatica Black'), url('../fonts/Pragmatica Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Bold Oblique';
+  src: local('Pragmatica Bold Oblique'), local('Pragmatica Bold Oblique'), url('../fonts/Pragmatica Bold Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Bold';
+  src: local('Pragmatica Bold'), local('Pragmatica Bold'), url('../fonts/Pragmatica Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Book';
+  src: local('Pragmatica Book'), local('Pragmatica Book'), url('../fonts/Pragmatica Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed Black Oblique';
+  src: local('Pragmatica Condensed Black Oblique'), local('Pragmatica Condensed Black Oblique'), url('../fonts/Pragmatica Condensed Black Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed Black';
+  src: local('Pragmatica Condensed Black'), local('Pragmatica Condensed Black'), url('../fonts/Pragmatica Condensed Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed Book';
+  src: local('Pragmatica Condensed Book'), local('Pragmatica Condensed Book'), url('../fonts/Pragmatica Condensed Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed ExtraLight Oblique';
+  src: local('Pragmatica Condensed ExtraLight Oblique'), local('Pragmatica Condensed ExtraLight Oblique'), url('../fonts/Pragmatica Condensed ExtraLight Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed ExtraLight';
+  src: local('Pragmatica Condensed ExtraLight'), local('Pragmatica Condensed ExtraLight'), url('../fonts/Pragmatica Condensed ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Condensed Oblique';
+  src: local('Pragmatica Condensed Oblique'), local('Pragmatica Condensed Oblique'), url('../fonts/Pragmatica Condensed Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica ExtraLight Oblique';
+  src: local('Pragmatica ExtraLight Oblique'), local('Pragmatica ExtraLight Oblique'), url('../fonts/Pragmatica ExtraLight Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica ExtraLight';
+  src: local('Pragmatica ExtraLight'), local('Pragmatica ExtraLight'), url('../fonts/Pragmatica ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Light Oblique';
+  src: local('Pragmatica Light Oblique'), local('Pragmatica Light Oblique'), url('../fonts/Pragmatica Light Oblique.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Light';
+  src: local('Pragmatica Light'), local('Pragmatica Light'), url('../fonts/Pragmatica Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pragmatica Oblique';
+  src: local('Pragmatica Oblique'), local('Pragmatica Oblique'), url('../fonts/Pragmatica Oblique.ttf') format('truetype');
+}
